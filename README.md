@@ -2,13 +2,8 @@
 # Roku Flashback build Video files
 ![mainRoku](https://user-images.githubusercontent.com/72535594/145485291-81e1a99c-2bbe-492d-968b-413c2811790f.jpg)<br/>
 ### Concept
-This site is divided into adults and children and provides streaming. The main page has a login menu, and the Roku welcome page opens. When a user logs in, the page is entered at the appropriate age group, and it is created using **MAMP, NODE, JavaScript, SASS, EXPRESS, SQL, and Vue CLI** so that you can view the video by clicking on the avata.
+API for video components. MYSQL uses index.php to load data.
 
-### color
-This Roku streaming page is used #4C2399 as the main color, so it uses to Short headlines or labels. 
-
-### Typographic
-The primary typeface of typography is Concert One, which is a font similar to the logotype, and is set as a font that is easy to read. The text font was also unified into Arial Regular, which is easy to read and similar to the headline font.
 
 ### Develop document
 - [Design document](https://docs.google.com/document/d/1HCrnyL23_EqnntXiBGVfNVKFJAsvMpEt8ApWnenlNnk/edit?usp=sharing)
